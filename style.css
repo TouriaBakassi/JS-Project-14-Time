@@ -1,0 +1,15 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(rgb(252, 16, 114) 30%, gray 30%,black 40%);
+}
+.TIME{
+    font-size: 150px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    position: absolute;
+    top: 30%;
+
+}
